@@ -1,0 +1,37 @@
+/* You can add global styles to this file, and also import other style files */
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
+html,
+body {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+
+
+.color-danger{
+    color: red;
+}
+
+.p-t-20{
+    padding-top: 20px;
+}
+
+.p-20{
+    padding:20px;
+}
+
+.p-b-20{
+    padding-bottom: 20px;
+}
+
+.demo-table {
+    width: 100%;
+}
+
+.heading-color{
+    color: #07a7d5;
+}
